@@ -5,6 +5,7 @@ Welcome to the **Interview Questions PDF Repository**! This repository is a coll
 ## 📁 Repository Structure
 
 The repository is organized as follows:
+```
 Interview-Questions-PDF/
 ├── Coding-Interview/
 │ ├── Data-Structures-and-Algorithms.pdf
@@ -16,6 +17,7 @@ Interview-Questions-PDF/
 ├── Behavioral-Interview/
 │ └── Common-Behavioral-Questions.pdf
 └── README.md
+```
 
 ## 📚 Categories
 
