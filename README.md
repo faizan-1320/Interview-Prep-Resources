@@ -10,7 +10,6 @@ Interview-Questions-PDF/
 ├── Coding-Interview/
 │ ├── Data-Structures-and-Algorithms.pdf
 │ ├── Python-Interview-Questions.pdf
-│ └── Java-Interview-Questions.pdf
 ├── System-Design/
 │ ├── System-Design-Basics.pdf
 │ └── Scalability-and-Performance.pdf
